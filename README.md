@@ -16,9 +16,7 @@ Build a landing page using advanced CSS properties.
 ```sh
 $ Open HTML file
 ```
-6. Visit the online version
-
-[link](https://CharlotteHouivet.github.io/)
+6. Visit the [online version](https://CharlotteHouivet.github.io/)
 
 # En cadeau un doggo beaucoup trop stylé
 
